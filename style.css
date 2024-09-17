@@ -1,0 +1,29 @@
+*{
+    background-color: black;
+}
+
+#poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: "Libre Baskerville", serif;
+
+}
+
+#title{
+    text-align: center;
+    color: aliceblue;
+
+
+}
+
+#text{
+    text-align: center;
+    color: aliceblue;
+}
+#image{
+    width: 100%;
+    border: 5px solid;
+    border-image:linear-gradient(to left ,rgba(255, 0, 0, 0.688) 1%,purple 25%,rgb(15, 160, 228) 50%,grey 50%,gold 75%, rgba(78, 9, 156, 0.888) ) 5;
+    image-resolution :100px;
+}
